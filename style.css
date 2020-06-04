@@ -1,0 +1,43 @@
+.border {
+    border: 0.5px solid #0f4c81;
+    width: 300px;
+    margin: 0.5em;
+    padding: 0.5em;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f4f4f4;
+}
+
+h3 {
+    color: #0f4c81;
+}
+
+img {
+    width:300px;
+   padding-bottom: 0.5em;
+}
+
+.info {
+    width: 300px;
+    border: 0.5px solid #0f4c81;
+    background-color: #C6DDF4;
+}
+
+#intress-facts { 
+    font-style: italic;
+    padding: 1em;
+}
+
+ul {
+    list-style: none;
+    padding: 1em;
+    margin:0px;
+}
+
+.lable {
+   font-weight: bold; 
+}
+
+.description {
+    padding: 1em;
+}
